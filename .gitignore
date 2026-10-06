@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.log
+*.jsonl
+Core Keeper fishing status.txt
+*.zip
+.venv/
+venv/
+.vs/
+obj/
+bin/
